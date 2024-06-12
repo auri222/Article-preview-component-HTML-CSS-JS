@@ -43,7 +43,7 @@ _4. Mobile active state review_
 ### Links
 
 <!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Article preview component live page](https://auri222.github.io/Article-preview-component-HTML-CSS-JS/)
 
 ## My process
 
